@@ -5,7 +5,7 @@ Project Overview
 Project Objectives:
 
 Reproducible Environment
-- Establish a self-contained Conda environment (quantresearch) with all dependencies tracked via environment.yml and requirements.txt, ensuring others can reproduce analyses seamlessly.
+- Establish a self-contained Conda environment (quant_env) with all dependencies tracked via environment.yml and requirements.txt, ensuring others can reproduce analyses seamlessly.
 
 Professional Repository Structure
 - Implement a clear, modular GitHub repository layout—separating raw/processed data, source code, notebooks, and tests—to demonstrate best practices in version control and project organization.
@@ -24,3 +24,4 @@ Portfolio-Ready Deliverables
 
 Scalability & Maintainability
 - Use modular code patterns, unit tests, and configuration files to ensure the project can be extended to new data sources, additional asset classes, and more sophisticated strategies as skills grow.
+
